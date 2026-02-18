@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
 
-Sitemap: https://alaskacg.github.io/alcan-mining-company/sitemap.xml
+Sitemap: https://alcanminingcompany.com/sitemap.xml
